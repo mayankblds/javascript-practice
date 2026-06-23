@@ -72,7 +72,7 @@ function compareNumber(number){
     else if(number==randomNumber){
         gameEnd=true;
         popupActive=true;
-        popupText.textContent="Congratulations! You guessed the number!";
+        popupText.innerHTML=`Congratulations!<br>You guessed the number CORRECTLY!<br>${randomNumber}`;
         resultMessage.style.display="flex";
         popup.style.color="#7dff88";
         newGameButton.style.backgroundColor="#7dff88";
@@ -125,7 +125,7 @@ function decreaseAttempts(){
 
 function gameOver(){
     gameEnd=true;
-    popupText.textContent=`Game Over! The number was ${randomNumber}`;
+    popupText.innerHTML = `Game Over!<br>The number was ${randomNumber}`;
     popup.style.color="#ba65f2";
     newGameButton.style.display="block";
     newGameButton.style.backgroundColor="#ba65f2";
