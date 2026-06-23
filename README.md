@@ -30,8 +30,9 @@ A simple browser-based number guessing game built with HTML, CSS, and JavaScript
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/dabd8686-99bf-403b-b633-e9a3b9322fd6" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d94e8044-b31d-45cd-ab17-b588aef0fc01" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/82138629-7da6-472c-84b8-ae9932042ab7" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/898f346d-d8b4-453c-8dd3-5566bfbad074" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcb3149e-ddd4-4a15-960d-7ef7f0f66b37" />
 
 
